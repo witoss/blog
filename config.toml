@@ -1,4 +1,4 @@
 baseURL = 'https://witoss.github.io/blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My coding adventures'
 theme = "ananke"
