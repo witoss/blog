@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://witoss.github.io/blog/</loc>
+    <lastmod>2022-01-13T07:58:13+01:00</lastmod>
+  </url><url>
+    <loc>https://witoss.github.io/blog/posts/my-second-post/</loc>
+    <lastmod>2022-01-13T07:58:13+01:00</lastmod>
+  </url><url>
+    <loc>https://witoss.github.io/blog/posts/</loc>
+    <lastmod>2022-01-13T07:58:13+01:00</lastmod>
+  </url><url>
+    <loc>https://witoss.github.io/blog/posts/my-first-post/</loc>
     <lastmod>2022-01-12T22:13:21+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2022-01-12T22:13:21+01:00</lastmod>
+    <loc>https://witoss.github.io/blog/categories/</loc>
   </url><url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2022-01-12T22:13:21+01:00</lastmod>
-  </url><url>
-    <loc>http://example.org/categories/</loc>
-  </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://witoss.github.io/blog/tags/</loc>
   </url>
 </urlset>
