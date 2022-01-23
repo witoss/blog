@@ -6,3 +6,9 @@ draft: false
 
 This is my second post
 
+with some additional comments
+
+And a nice picture
+
+![alt text for screen readers](/static/face.jpg "Text to show on mouseover")
+
