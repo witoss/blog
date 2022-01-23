@@ -10,5 +10,5 @@ with some additional comments
 
 And a nice picture
 
-![alt text for screen readers](/static/face.jpg "Text to show on mouseover")
+![alt text for screen readers](/face.jpg "Text to show on mouseover")
 
