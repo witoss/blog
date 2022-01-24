@@ -2,3 +2,4 @@ baseURL = 'https://witoss.github.io/blog/'
 languageCode = 'en-us'
 title = 'My coding adventures'
 theme = "ananke"
+DisqusShortname = "blog-cp33sokuia"

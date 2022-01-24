@@ -10,7 +10,9 @@ with some additional comments
 
 And a nice picture
 
-testing live reload
+testing live reload1
+
+{{< gist BetimShala 92d5886512364fe582a74658d271a627 >}}
 
 ![alt text for screen readers](/blog/face.jpg "Text to show on mouseover")
 
